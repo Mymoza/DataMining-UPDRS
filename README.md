@@ -1,5 +1,6 @@
 # DataMining-UPDRS
 This repo is for MTI830 - Data mining class followed in Summer 2020
+
 Marie-Philippe Gill & Félix Blier
 
 ## Abstract
@@ -10,7 +11,7 @@ Although the Unified Parkinson's Disease Rating Scale (UPDRS) is the de-facto go
 
 ## Dataset
 
-A Tsanas, MA Little, PE McSharry, LO Ramig (2009)'Accurate telemonitoring of Parkinson's disease progression by non-invasive speech tests',IEEE Transactions on Biomedical Engineering 
+A Tsanas, MA Little, PE McSharry, LO Ramig (2009). Accurate telemonitoring of Parkinson's disease progression by non-invasive speech tests, IEEE Transactions on Biomedical Engineering
 
 Downloaded from [Data.world](https://data.world/uci/parkinsons-telemonitoring/workspace/project-summary?agentid=uci&datasetid=parkinsons-telemonitoring)
 
